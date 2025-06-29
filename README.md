@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Uno! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1BsBDHk8BEfCSSxTTsvnkTPnGYdHxTJzT/view?usp=sharing)
 
 ## About Me 🚀
 
