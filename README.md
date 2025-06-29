@@ -1,6 +1,6 @@
 # Hi there, I'm Uno! 👋
 
-![Banner Image]https://drive.google.com/file/d/1BsBDHk8BEfCSSxTTsvnkTPnGYdHxTJzT/view?usp=sharing
+![https://drive.google.com/file/d/1BsBDHk8BEfCSSxTTsvnkTPnGYdHxTJzT/view?usp=sharing]
 
 ## About Me 🚀
 
